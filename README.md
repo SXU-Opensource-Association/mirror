@@ -43,7 +43,7 @@
 
 #### Plan B
 
-社团大概还有6000团费，在这个预算内尽可能搭建起一个功能完备的镜像站，该项可供同学们自由发挥，最终选定一个最优解，被选中的贡献者获得 $(6000 - 你的方案的预算) * 0.05$ 的奖金，满足镜像站服务的参考配置可以参考 [Mirroring Howto · tuna/tunasync Wiki · GitHub](https://github.com/tuna/tunasync/wiki/Mirroring-Howto)，你给出方案的内容放在jumping/planB目录下
+社团大概还有6000团费，在这个预算内尽可能搭建起一个功能完备的镜像站，该项可供同学们自由发挥，最终选定一个最优解，被选中的贡献者获得 $(6000 - 你的方案的预算) * 0.05$ 的奖金，满足镜像站服务的参考配置可以参考 [Mirroring Howto · tuna/tunasync Wiki · GitHub](https://github.com/tuna/tunasync/wiki/Mirroring-Howto)，你给出方案的内容放在 `jumping/planB` 目录下
 
 PlanA 和 PlanB 同步进行，给学院看也需要一些方案，不过更重要的应该是让学院相信我们有把事情办成的能力。
 
