@@ -26,7 +26,7 @@
 
 系统盘还是要稍微好一点的，至少得固态吧，3.5 寸 SATA 即可，128G 走起。[大约 ￥ 60 元人民币](https://item.jd.com/100028397263.html#crumb-wrap)
 
-最后是重中之重，想要存储跟得上，SAS 硬盘得插好。[6 GiB 一个 300 块](https://item.taobao.com/item.htm?abbucket=10&id=678719109707&ns=1&priceTId=215049e917406399360532370e18b4&skuId=5889665163375&spm=a21n57.sem.item.380.34a47d83vpIVGw&utparam=%7B%22aplus_abtest%22%3A%226ebc9d82ba887734eaf7c5edab7f17de%22%7D&xxc=taobaoSearch)，四块直接 24 GiB 走起。大约 ￥ 1200 元。
+最后是重中之重，想要存储跟得上，SAS 硬盘得插好。[6 TiB 一个 300 块](https://item.taobao.com/item.htm?abbucket=10&id=678719109707&ns=1&priceTId=215049e917406399360532370e18b4&skuId=5889665163375&spm=a21n57.sem.item.380.34a47d83vpIVGw&utparam=%7B%22aplus_abtest%22%3A%226ebc9d82ba887734eaf7c5edab7f17de%22%7D&xxc=taobaoSearch)，四块直接 24 TiB 走起。大约 ￥ 1200 元。
 
 综上统计：
 
@@ -36,5 +36,5 @@
 | 英特尔 E5-2620        | 2    | 20       |
 | 4G 内存条             | 4    | 40       |
 | 128G 固态硬盘         | 1    | 60       |
-| 6G SAS 硬盘           | 4    | 1200     |
+| 6T SAS 硬盘           | 4    | 1200     |
 | 总计                  | \*   | 1770     |
